@@ -1,5 +1,11 @@
 # @emotion/react
 
+## 11.1.2
+
+### Patch Changes
+
+- [`1ee34005`](https://github.com/emotion-js/emotion/commit/1ee34005a5e02c9041b36f73395700f1965388eb) [#2122](https://github.com/emotion-js/emotion/pull/2122) Thanks [@dcastil](https://github.com/dcastil)! - Improved label extraction from the stack traces to handle components with numbers in their names.
+
 ## 11.1.1
 
 ### Patch Changes
